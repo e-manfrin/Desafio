@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<!--Arquivos de Usuários-->
+<Usuarios>
+	<Usuario>
+		<Codigo>1</Codigo>
+		<Nome>Emily</Nome>
+		<Login>E_Manfrin</Login>
+		<Senha>eManfrin1</Senha>
+		<Bloqueado>true</Bloqueado>
+		<DataAcesso>11/23/2022 15:10:09 PM</DataAcesso>
+	</Usuario>
+	<Usuario>
+		<Codigo>2</Codigo>
+		<Nome>Keyt</Nome>
+		<Login>E_Manfrin</Login>
+		<Senha>eManfrin2</Senha>
+		<Bloqueado>false</Bloqueado>
+		<DataAcesso>11/23/2022 15:10:11 PM</DataAcesso>
+	</Usuario>
+</Usuarios>
